@@ -67,7 +67,7 @@ Web-based trip reservation system with frontend and database integration.
 ---
 
 ## 🤝 Let's Connect
-💼 **LinkedIn:** [My LinkedIn Profile]([https://www.linkedin.com/in/tejal-somvanshi-4a8b72373](https://www.linkedin.com/in/tejal-somvanshi-4a8b72373?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+💼 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/tejal-somvanshi-4a8b72373)
 
 
 📧 **Email:**[tejal.somvanshi_25pca@sanjivani.edu.in]
